@@ -4,3 +4,4 @@ It achived a 95% of accuracy and above 90% of Precision, Recall and F1-score.
 Distribution of code or using it without prior permission can be lead to legal issues.
 The dataset is present in Kaggle as well as in this project directory.
 The Kaggle link for the dataset: https://www.kaggle.com/datasets/alexteboul/heart-disease-health-indicators-dataset/data
+Published research paper: https://ieeexplore.ieee.org/abstract/document/10426035/
